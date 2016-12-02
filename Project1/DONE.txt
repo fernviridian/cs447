@@ -1,0 +1,21 @@
+Grayscale = 5
+0.5 Threshold Dither = 3
+AVG threshold dither = 7
+random dither = 5
+Quant unif = 5
+Clustered = 10
+Box = 15
+Bartlett = 3
+Gaussian = 3
+Composite over = 15
+COMP in = 3
+Comp out = 3
+COmp Atop = 3
+Comp xor = 3
+EDGE detect filter = 3
+edge enhance = 3
+
+
+-------------
+Total = 89
+WANT = 120

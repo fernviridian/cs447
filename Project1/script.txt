@@ -1,0 +1,10 @@
+
+load E:\projects\Project1\images\church.tga
+half
+save E:\projects\Project1\myresult\church-half.tga
+
+load E:\projects\Project1\images\checkers.tga
+half
+save E:\projects\Project1\myresult\checkers-half.tga
+
+end

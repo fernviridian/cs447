@@ -1,0 +1,163 @@
+load E:\projects\Project1\images\colors-for-bw.tga
+gray
+save E:\projects\Project1\myresult\colors-for-bw-gray.tga
+
+load E:\projects\Project1\images\church.tga
+quant-unif
+save E:\projects\Project1\myresult\church-quant-unif.tga
+
+load E:\projects\Project1\images\wiz.tga
+quant-unif
+save E:\projects\Project1\myresult\wiz-quant-unif.tga
+
+load E:\projects\Project1\images\church.tga
+quant-pop
+save E:\projects\Project1\myresult\church-quant-pop.tga
+
+load E:\projects\Project1\images\wiz.tga
+quant-pop
+save E:\projects\Project1\myresult\wiz-quant-pop.tga
+
+load E:\projects\Project1\images\church.tga
+dither-thresh
+save E:\projects\Project1\myresult\church-dither-thresh.tga
+
+load E:\projects\Project1\images\church.tga
+dither-bright
+save E:\projects\Project1\myresult\church-dither-bright.tga
+
+load E:\projects\Project1\images\church.tga
+dither-rand
+save E:\projects\Project1\myresult\church-dither-rand.tga
+
+
+load E:\projects\Project1\images\church.tga
+dither-cluster
+save E:\projects\Project1\myresult\church-dither-cluster.tga
+
+load E:\projects\Project1\images\church.tga
+dither-fs
+save E:\projects\Project1\myresult\church-dither-fs.tga
+
+
+
+load E:\projects\Project1\images\church.tga
+filter-box
+save E:\projects\Project1\myresult\church-filter-box.tga
+
+load E:\projects\Project1\images\checkers.tga
+filter-box
+save E:\projects\Project1\myresult\checkers-filter-box.tga
+
+load E:\projects\Project1\images\church.tga
+filter-bartlett
+save E:\projects\Project1\myresult\church-filter-bartlett.tga
+
+load E:\projects\Project1\images\checkers.tga
+filter-bartlett
+save E:\projects\Project1\myresult\checkers-filter-bartlett.tga
+
+load E:\projects\Project1\images\church.tga
+filter-gauss
+save E:\projects\Project1\myresult\church-filter-gauss.tga
+
+load E:\projects\Project1\images\checkers.tga
+filter-gauss
+save E:\projects\Project1\myresult\checkers-filter-gauss.tga
+
+load E:\projects\Project1\images\church.tga
+filter-gauss-n 9
+save E:\projects\Project1\myresult\church-filter-gauss-n.tga
+
+load E:\projects\Project1\images\checkers.tga
+filter-gauss-n 11
+save E:\projects\Project1\myresult\checkers-filter-gauss-n.tga
+
+load E:\projects\Project1\images\church.tga
+filter-edge
+save E:\projects\Project1\myresult\church-filter-edge.tga
+
+load E:\projects\Project1\images\checkers.tga
+filter-edge
+save E:\projects\Project1\myresult\checkers-filter-edge.tga
+
+load E:\projects\Project1\images\gray-checkers.tga
+filter-edge
+save E:\projects\Project1\myresult\gray-checkers-filter-edge.tga
+
+
+
+load E:\projects\Project1\images\church.tga
+half
+save E:\projects\Project1\myresult\church-half.tga
+
+load E:\projects\Project1\images\checkers.tga
+half
+save E:\projects\Project1\myresult\checkers-half.tga
+
+load E:\projects\Project1\images\church-small.tga
+double
+save E:\projects\Project1\myresult\church-small-double.tga
+
+load E:\projects\Project1\images\checkers-small.tga
+double
+save E:\projects\Project1\myresult\checkers-small-double.tga
+
+load E:\projects\Project1\images\church.tga
+scale 0.8
+save E:\projects\Project1\myresult\church-scale.tga
+
+load E:\projects\Project1\images\checkers.tga
+scale 1.5
+save E:\projects\Project1\myresult\checkers-scale.tga
+
+load E:\projects\Project1\images\church.tga
+rotate 30
+save E:\projects\Project1\myresult\church-rotate.tga
+
+load E:\projects\Project1\images\checkers.tga
+rotate 75
+save E:\projects\Project1\myresult\checkers-rotate.tga
+
+load E:\projects\Project1\images\zcolorcheck.tga
+comp-over E:\projects\Project1\images\zred.tga
+save E:\projects\Project1\myresult\zcolorcheck-comp-over.tga
+
+load E:\projects\Project1\images\zcolorcheck.tga
+comp-in E:\projects\Project1\images\zred.tga
+save E:\projects\Project1\myresult\zcolorcheck-comp-in.tga
+
+load E:\projects\Project1\images\zcolorcheck.tga
+comp-out E:\projects\Project1\images\zred.tga
+save E:\projects\Project1\myresult\zcolorcheck-comp-out.tga
+
+load E:\projects\Project1\images\zcolorcheck.tga
+comp-atop E:\projects\Project1\images\zred.tga
+save E:\projects\Project1\myresult\zcolorcheck-comp-atop.tga
+
+load E:\projects\Project1\images\zcolorcheck.tga
+comp-xor E:\projects\Project1\images\zred.tga
+save E:\projects\Project1\myresult\zcolorcheck-comp-xor.tga
+
+load E:\projects\Project1\images\church.tga
+npr-paint
+save E:\projects\Project1\myresult\church-npr-paint.tga
+
+load E:\projects\Project1\images\wiz.tga
+npr-paint
+save E:\projects\Project1\myresult\wiz-npr-paint.tga
+
+
+load E:\projects\Project1\images\church.tga
+filter-enhance
+save E:\projects\Project1\myresult\church-filter-enhance.tga
+
+load E:\projects\Project1\images\checkers.tga
+filter-enhance
+save E:\projects\Project1\myresult\checkers-filter-enhance.tga
+
+load E:\projects\Project1\images\gray-checkers.tga
+filter-enhance
+save E:\projects\Project1\myresult\gray-checkers-filter-enhance.tga
+
+end 
